@@ -1,11 +1,11 @@
-#Anny {
-    background-color: rgb(240, 248, 255);
+
+
+#Anny{
     padding: 10px 10px 150px 20px;
     font-family: 'Roboto', sans-serif;
     text-align: left;
     font-size: 20px;
-    color: grey;  
-
+    
 }
 #about_me {
     font-family: 'Roboto', sans-serif;
@@ -33,7 +33,6 @@
 }
     
 #Portafolio {
-    background-color: rgb(240, 248, 255);
     font-family: 'Roboto', sans-serif;
     padding: 70px 50px 50px 70px;
     text-align: center;
