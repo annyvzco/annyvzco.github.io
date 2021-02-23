@@ -1,12 +1,17 @@
 #Anny {
     background-color: rgb(240, 248, 255);
-    padding: 25px 50px 75px 100px;
+    padding: 10px 10px 150px 20px;
     font-family: 'Roboto', sans-serif;
-    text-align: center;
+    text-align: left;
     font-size: 20px;
     color: grey;  
+
 }
 
+#Anny > img{
+
+    border: 20px  solid #F0F8FF
+}
 #about_me {
     font-family: 'Roboto', sans-serif;
     padding: 70px 50px 50px 70px;
