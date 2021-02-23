@@ -4,9 +4,13 @@
     padding: 10px 10px 150px 20px;
     font-family: 'Roboto', sans-serif;
     text-align: left;
-    font-size: 20px;
-    
+    font-size: 20px; 
 }
+
+#Anny > img {
+    border: 10px solid #D8EBFF;
+}
+
 #about_me {
     font-family: 'Roboto', sans-serif;
     padding: 70px 50px 50px 70px;
@@ -18,12 +22,12 @@
 }
 
 #about_me > table {
-    background-color: rgb(240, 248, 255);
+    background-color: #D8EBFF;
 }
 
 #KnowMe {
     font-family: 'Roboto', sans-serif;
-    padding: 70px 20px 20px 90px;
+    padding: 90px 50px 50px 90px;
     text-align: left;
     font-size: 20px;
 }
